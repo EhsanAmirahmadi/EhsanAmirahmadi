@@ -11,7 +11,17 @@ I'm Ehsan from Iran, and i'm a python developer =)
 * HTML, CSS
 
 ## My favorites
+<div>
+  <img src='Atom.png' with='60rem' height='60rem'>
+  <img src='Pycharm.png' with='60rem' height='60rem'>
+  <img src='Visual Studio.png' with='60rem' height='60rem'>
+  <img src='Visual studio code.png' with='60rem' height='60rem'>
+  <img src='andorid.png' with='60rem' height='60rem'>
+  <img src='mac os.png' with='60rem' height='60rem'>
+  <img src='ubuntu.png' with='60rem' height='60rem'>
+</div>
 
+<br>
 
 <a href="https://github.com/ghost1372">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhsanAmirahmadi&theme=tokyonight" />
