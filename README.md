@@ -18,7 +18,7 @@ I'm Ehsan from Iran, and i'm a python developer =)
   <img src='Atom.png' with='55rem' height='55rem'>
   <img src='mac os.png' with='55rem' height='55rem'>
   <img src='ubuntu.png' with='55rem' height='55rem'>
-  <img src='andorid.png' with='50rem' height='50rem'>
+  <img src='andorid.png' with='45rem' height='45rem'>
 </div>
 
 <br>
