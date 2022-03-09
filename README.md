@@ -1,8 +1,11 @@
-### Hello 😃
+### Hello 😃, I'm Ehsan!
 #### Python Developer
 I'm Ehsan from Iran, and i'm a python developer =)
 
-Skills: Python / Bootstrap / Html / Css
+## Skills and Experience
+* Python
+* Bootstrap
+* HTML, CSS
 
 - 🌱 I’m currently learning Python 
 - 😄 Pronouns: He/Him 
