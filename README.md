@@ -24,15 +24,12 @@ I'm Ehsan from Iran, and i'm a python developer =)
 
 ## My links and Connectinos
 
-<div>
-  <img src='Pycharm.png' with='55rem' height='55rem'>
-  <img src='Visual studio code.png' with='55rem' height='55rem'>
-  <img src='Visual Studio.png' with='55rem' height='55rem'>
-  <img src='Atom.png' with='55rem' height='55rem'>
-  <img src='mac os.png' with='55rem' height='55rem'>
-  <img src='ubuntu.png' with='55rem' height='55rem'>
-  <img src='andorid.png' with='45rem' height='45rem'>
-</div>
+[<img src='' alt='github' height='40'>](https://github.com/https://github.com/EhsanAmirahmadi)
+[<img src='' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ehsan-amirahmadi-a44a35221/) 
+[<img src='' alt='website' height='40'>](https://zil.ink/ehsanamirahmadi)
+[<img src='' alt='google' height='40'>](https://virgool.io/@ehsanamirahmadi) 
+[<img src='' alt='telegram' height='40'>](https://t.me/EhsanAmirahmadi)
+[<img src='' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16884635/ehsan-amirahmadi)  
 
 <br>
 
