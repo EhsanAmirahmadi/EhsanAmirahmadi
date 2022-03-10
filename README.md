@@ -33,7 +33,7 @@ I'm Ehsan from Iran, and i'm a python developer =)
 
 <br>
 
-<a href="https://github.com/EhsanAmirahmadi">
+<a href="https://github.com/EhsanAmirahmadi/">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhsanAmirahmadi&theme=tokyonight" />
 </a>
 
