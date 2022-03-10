@@ -5,13 +5,13 @@ I'm Ehsan from Iran, and i'm a python developer =)
 - 😄 Pronouns: He/Him 
 
 ### Skills and Experience
-_____________________________________________________________________________
-* Python
-* Bootstrap
-* HTML, CSS
+___
+* Python 🐍
+* Bootstrap 🖼️
+* HTML, CSS 💻
 
 ### My favorites
-_____________________________________________________________________________
+___
 <div>
   <img src='Pycharm.png' with='55rem' height='55rem'>
   <img src='Visual studio code.png' with='55rem' height='55rem'>
@@ -25,7 +25,7 @@ _____________________________________________________________________________
 <br>
 
 ### My links and Connectinos
-_____________________________________________________________________________
+___
 
 [<img src='Web.webp' alt='website' with='45rem' height='45rem'>](https://zil.ink/ehsanamirahmadi)
 [<img src='linkedin.webp' alt='linkedin' with='45rem' height='45rem'>](https://www.linkedin.com/in/ehsan-amirahmadi-a44a35221/) 
