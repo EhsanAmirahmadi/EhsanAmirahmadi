@@ -1,17 +1,15 @@
-## Hello 😃, I'm Ehsan!
+# Hello 😃, I'm Ehsan!
 I'm Ehsan from Iran, and i'm a python developer =)
 
 - 🌱 I’m currently learning Python 
 - 😄 Pronouns: He/Him 
 
-### Skills and Experience
-___
+## Skills and Experience
 * Python 🐍
-* Bootstrap 🖼️
+* Bootstrap 🪄
 * HTML, CSS 💻
 
-### My favorites
-___
+## My favorites
 <div>
   <img src='Pycharm.png' with='55rem' height='55rem'>
   <img src='Visual studio code.png' with='55rem' height='55rem'>
@@ -24,8 +22,7 @@ ___
 
 <br>
 
-### My links and Connectinos
-___
+## My links and Connectinos
 
 [<img src='Web.webp' alt='website' with='45rem' height='45rem'>](https://zil.ink/ehsanamirahmadi)
 [<img src='linkedin.webp' alt='linkedin' with='45rem' height='45rem'>](https://www.linkedin.com/in/ehsan-amirahmadi-a44a35221/) 
