@@ -1,5 +1,5 @@
-# Hello 😃, I'm Ehsan!
-I'm Ehsan from Iran, and i'm a python developer =)
+<h1 align='center'><i> Hello 😃, I'm Ehsan!</i></h1>
+<h4 align='center'>I'm Ehsan from Iran, and i'm a python developer 🙃 </h4>
 
 - 🌱 I’m currently learning Python 
 - 😄 Pronouns: He/Him 
@@ -10,7 +10,7 @@ I'm Ehsan from Iran, and i'm a python developer =)
 * HTML, CSS 💻
 
 ## My favorites
-<div>
+<div align='center'>
   <img src='Pycharm.png' with='55rem' height='55rem'>
   <img src='Visual studio code.png' with='55rem' height='55rem'>
   <img src='Visual Studio.png' with='55rem' height='55rem'>
