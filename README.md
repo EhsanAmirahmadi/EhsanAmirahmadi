@@ -1,14 +1,16 @@
-<h1 align='center'><i> Hello 😃, I'm Ehsan!</i></h1>
+<h1 align='center'><i><samp> Hello 😃, I'm Ehsan!</samp></i></h1>
 <h4 align='center'>I'm Ehsan from Iran, and i'm a python developer 🙃 </h4>
 
-- 🌱 I’m currently learning Python 
-- 😄 Pronouns: He/Him 
+- 🌱 <b><samp>I’m currently learning Python</samp></b>
+- 😄 <b><samp>Pronouns: He/Him</samp></b> 
+
 ## Information
 
 ## Skills and Experience
-* Python 🐍
-* Bootstrap 🪄
-* HTML, CSS 💻
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 
 ## My favorites
 <!-- <div align='center'>
@@ -20,19 +22,34 @@
   <img src='ubuntu.png' with='55rem' height='55rem'>
   <img src='andorid.png' with='45rem' height='45rem'>
 </div> -->
-![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=Python&logoColor=yellow)
-![HTML](https://img.shields.io/badge/html-333?style=for-the-badge&logo=html&logoColor=yellow)
-![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=Python&logoColor=yellow)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![mac OS](https://img.shields.io/badge/mac_OS-233858?style=for-the-badge&logo=apple&logoColor=white)
+![android](https://img.shields.io/badge/android-408C3F?style=for-the-badge&logo=android&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-352358?style=for-the-badge&logo=VisualStudio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-06487F?style=for-the-badge&logo=VisualStudiocode&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-36523B?style=for-the-badge&logo=atom&logoColor=white)
+![Pycharm](https://img.shields.io/badge/Pycharm-5D702D?style=for-the-badge&logo=Pycharm&logoColor=white)
 
 <br>
 
 ## My links and Connectinos
 
-[<img src='Web.webp' alt='website' with='45rem' height='45rem'>](https://zil.ink/ehsanamirahmadi)
+<a href='https://zil.ink/ehsanamirahmadi/'>![Web](https://img.shields.io/badge/My_Linkes-405BBD?style=for-the-badge&logo=&logoColor=white)</a>
+<a href='https://www.linkedin.com/in/ehsan-amirahmadi-a44a35221/'>
+  ![Linked In](https://img.shields.io/badge/Linked_In-182E80?style=for-the-badge&logo=LinkedIn&logoColor=white)
+</a>
+<a href='https://virgool.io/@ehsanamirahmadi/'>![Blog](https://img.shields.io/badge/Blog-0D173B?style=for-the-badge&logo=&logoColor=white)</a>
+<a href='https://t.me/EhsanAmirahmadi/'>![Telegram](https://img.shields.io/badge/Telegram-4C5266?style=for-the-badge&logo=Telegram&logoColor=white)</a>
+<a href='https://stackoverflow.com/users/16884635/ehsan-amirahmadi/'>
+  ![stackoverflow](https://img.shields.io/badge/stack_overflow-B85E12?style=for-the-badge&logo=stackoverflow&logoColor=white)
+</a>
+<a href='gmail'>![Gmail](https://img.shields.io/badge/Gmail-B82912?style=for-the-badge&logo=Gmail&logoColor=white)</a>
+
+<!-- [<img src='Web.webp' alt='website' with='45rem' height='45rem'>](https://zil.ink/ehsanamirahmadi)
 [<img src='linkedin.webp' alt='linkedin' with='45rem' height='45rem'>](https://www.linkedin.com/in/ehsan-amirahmadi-a44a35221/) 
 [<img src='virgool.png' alt='virgool' with='45rem' height='45rem'>](https://virgool.io/@ehsanamirahmadi) 
 [<img src='Telegram.webp' alt='telegram' with='45rem' height='45rem'>](https://t.me/EhsanAmirahmadi)
-[<img src='stackoverflow.png' alt='stackoverflow' with='50rem' height='50rem'>](https://stackoverflow.com/users/16884635/ehsan-amirahmadi)  
+[<img src='stackoverflow.png' alt='stackoverflow' with='50rem' height='50rem'>](https://stackoverflow.com/users/16884635/ehsan-amirahmadi)   -->
 <!-- [<img src='Gmail.webp' alt='gmail' height='40'>]() -->
 
 <br>
