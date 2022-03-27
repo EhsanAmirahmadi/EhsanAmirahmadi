@@ -4,6 +4,8 @@
 - 🌱 <b><samp>I’m currently learning Python</samp></b>
 - 😄 <b><samp>Pronouns: He/Him</samp></b> 
 
+<h5 align='center'><img src='gif.gif'><h5>
+
 ## Information
 ![Age](https://img.shields.io/badge/age%20-(now%20%3A%202022)%2015%20-red?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Location%20-Iran,Mashhad-blue?style=for-the-badge)
@@ -20,7 +22,7 @@
 ![mac OS](https://img.shields.io/badge/mac_OS-233858?style=for-the-badge&logo=apple&logoColor=white)
 ![android](https://img.shields.io/badge/android-408C3F?style=for-the-badge&logo=android&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-352358?style=for-the-badge&logo=VisualStudio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-06487F?style=for-the-badge&logo=VisualStudiocode&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-06487F?style=for-the-badge&logo=VisualStudiocode&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-36523B?style=for-the-badge&logo=atom&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/Pycharm-5D702D?style=for-the-badge&logo=Pycharm&logoColor=white)
 
@@ -47,6 +49,9 @@
   <a href="https://github.com/EhsanAmirahmadi/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhsanAmirahmadi&theme=tokyonight" />
   </a>
+<br>
+<br>
+  
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EhsanAmirahmadi&show_icons=true&theme=tokyonight)
   
