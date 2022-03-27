@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning Python 
 - 😄 Pronouns: He/Him 
+## Information
 
 ## Skills and Experience
 * Python 🐍
@@ -10,7 +11,7 @@
 * HTML, CSS 💻
 
 ## My favorites
-<div align='center'>
+<!-- <div align='center'>
   <img src='Pycharm.png' with='55rem' height='55rem'>
   <img src='Visual studio code.png' with='55rem' height='55rem'>
   <img src='Visual Studio.png' with='55rem' height='55rem'>
@@ -18,7 +19,10 @@
   <img src='mac os.png' with='55rem' height='55rem'>
   <img src='ubuntu.png' with='55rem' height='55rem'>
   <img src='andorid.png' with='45rem' height='45rem'>
-</div>
+</div> -->
+![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=Python&logoColor=yellow)
+![HTML](https://img.shields.io/badge/html-333?style=for-the-badge&logo=html&logoColor=yellow)
+![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=Python&logoColor=yellow)
 
 <br>
 
