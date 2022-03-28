@@ -1,12 +1,10 @@
 <h1 align='center'><i><samp> Hello 😃 , I'm <a href='https://zil.ink/ehsanamirahmadi/'>Ehsan Amirahmadi</a>!</samp></i></h1>
+<h5 align='center'><img src='gif.gif'><h5>
 <h4><b> I'm Ehsan from Iran, and i'm a python developer 🙃 </b></h4>
 
 - 🌱 <b><samp>I’m currently learning Python</samp></b>
 - 😄 <b><samp>Pronouns: He/Him</samp></b> 
 
-<h5 align='center'><img src='gif.gif'><h5>
-
-## Information
 ![Age](https://img.shields.io/badge/age%20-(now%20%3A%202022)%2015%20-red?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Location%20-Iran,Mashhad-blue?style=for-the-badge)
 
@@ -44,8 +42,22 @@
 
 <br>
 
-## Status
-<div style='display: flex;'>
+## Analytics
+  <p align="center">
+  <a href="https://github.com/EhsanAmirahmadi">
+  <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=EhsanAmirahmadi&hide=contribs,issues&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EhsanAmirahmadi&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=tokyonight"/> 
+<!--   <br/> -->
+<!--   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EhsanAmirahmadi&theme=radical&hide_border=true&background=1a1b27"/> -->
+  <br/>
+  <img height="145rem" src="https://github-profile-trophy.vercel.app/?username=EhsanAmirahmadi&margin-w=10&no-frame=true&row=1&theme=tokyonight"/>
+  </a>
+</p>
+  
+  
+  
+  
+<!-- <div style='display: flex;'>
   <a href="https://github.com/EhsanAmirahmadi/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhsanAmirahmadi&theme=tokyonight" />
   </a>
@@ -53,9 +65,8 @@
 <br>
   
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EhsanAmirahmadi&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EhsanAmirahmadi&show_icons=true&theme=tokyonight) -->
   
-</div>
 
 <!-- <div align='center'>
   <img src='Pycharm.png' with='55rem' height='55rem'>
