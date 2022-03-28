@@ -24,7 +24,7 @@
 ![Atom](https://img.shields.io/badge/Atom-36523B?style=for-the-badge&logo=atom&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/Pycharm-5D702D?style=for-the-badge&logo=Pycharm&logoColor=white)
 
-<br>
+<!-- <br> -->
 
 ## My links and Connectinos
 
@@ -40,13 +40,13 @@
 <a href='gmail'>![Gmail](https://img.shields.io/badge/Gmail-B82912?style=for-the-badge&logo=Gmail&logoColor=white)</a>
 
 
-<br>
+<!-- <br> -->
 
 ## Analytics
   <p align="center">
   <a href="https://github.com/EhsanAmirahmadi">
-  <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=EhsanAmirahmadi&hide=contribs,issues&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EhsanAmirahmadi&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=tokyonight"/> 
+  <img height="130rem" src="https://github-readme-stats.vercel.app/api?username=EhsanAmirahmadi&hide=contribs,issues&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="130rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EhsanAmirahmadi&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=tokyonight"/> 
 <!--   <br/> -->
 <!--   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EhsanAmirahmadi&theme=radical&hide_border=true&background=1a1b27"/> -->
   <br/>
