@@ -7,12 +7,16 @@
 
 ![Age](https://img.shields.io/badge/age%20-(now%20%3A%202022)%2015%20-red?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Location%20-Iran,Mashhad-blue?style=for-the-badge)
-
+  
+<br>
+  
 ## Skills and Experience 🪄
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+ 
+ <br>
 
 ## My favorites ❤️
 
@@ -24,7 +28,7 @@
 ![Atom](https://img.shields.io/badge/Atom-36523B?style=for-the-badge&logo=atom&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/Pycharm-5D702D?style=for-the-badge&logo=Pycharm&logoColor=white)
 
-<!-- <br> -->
+<br>
 
 ## My links and Connectinos 🔗
 
@@ -39,7 +43,7 @@
 </a>
 <a href='gmail'>![Gmail](https://img.shields.io/badge/Gmail-B82912?style=for-the-badge&logo=Gmail&logoColor=white)</a>
 
-
+<br>
 <!-- <br> -->
 
 ## Analysis 📊 
