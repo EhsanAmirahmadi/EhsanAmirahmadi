@@ -45,8 +45,8 @@
 ## Analytics
   <p align="center">
   <a href="https://github.com/EhsanAmirahmadi">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=EhsanAmirahmadi&hide=contribs,issues&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EhsanAmirahmadi&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=tokyonight"/> 
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=EhsanAmirahmadi&hide=contribs,issues&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EhsanAmirahmadi&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=tokyonight"/> 
 <!--   <br/> -->
 <!--   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EhsanAmirahmadi&theme=radical&hide_border=true&background=1a1b27"/> -->
   <br/>
