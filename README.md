@@ -8,13 +8,13 @@
 ![Age](https://img.shields.io/badge/age%20-(now%20%3A%202022)%2015%20-red?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Location%20-Iran,Mashhad-blue?style=for-the-badge)
 
-## Skills and Experience
+## Skills and Experience 🪄
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 
-## My favorites
+## My favorites ❤️
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![mac OS](https://img.shields.io/badge/mac_OS-233858?style=for-the-badge&logo=apple&logoColor=white)
@@ -26,7 +26,7 @@
 
 <!-- <br> -->
 
-## My links and Connectinos
+## My links and Connectinos 🔗
 
 <a href='https://zil.ink/ehsanamirahmadi/'>![Web](https://img.shields.io/badge/My_Linkes-405BBD?style=for-the-badge&logo=&logoColor=white)</a>
 <a href='https://www.linkedin.com/in/ehsan-amirahmadi-a44a35221/'>
@@ -42,7 +42,7 @@
 
 <!-- <br> -->
 
-## Analytics
+## Analysis 📊 
   <p align="center">
   <a href="https://github.com/EhsanAmirahmadi">
   <img height="132rem" src="https://github-readme-stats.vercel.app/api?username=EhsanAmirahmadi&hide=contribs,issues&show_icons=true&theme=tokyonight&hide_border=true"/>
