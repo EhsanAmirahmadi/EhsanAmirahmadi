@@ -5,44 +5,46 @@
 - 🌱 <b><samp>I’m currently learning Python</samp></b>
 - 😄 <b><samp>Pronouns: He/Him</samp></b> 
 
-![Age](https://img.shields.io/badge/age%20-(now%20%3A%202022)%2015%20-red?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location%20-Iran,Mashhad-blue?style=for-the-badge)
+![Age](https://img.shields.io/badge/age%20-(now%20%3A%202022)%2015%20-red?style=flat-square)
+![Location](https://img.shields.io/badge/Location%20-Iran,Mashhad-blue?style=flat-square)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/EhsanAmirahmadi?style=flat-square&color=red">
+<img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=EhsanAmirahmadi&style=flat-square&color=green">
   
 <!-- <br> -->
 ##
   
 ### Skills and Experience 🪄
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML](https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
  
 <!--  <br> -->
 
 ### My favorites ❤️
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![mac OS](https://img.shields.io/badge/mac_OS-233858?style=for-the-badge&logo=apple&logoColor=white)
-![android](https://img.shields.io/badge/android-408C3F?style=for-the-badge&logo=android&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-352358?style=for-the-badge&logo=VisualStudio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-06487F?style=for-the-badge&logo=VisualStudiocode&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-36523B?style=for-the-badge&logo=atom&logoColor=white)
-![Pycharm](https://img.shields.io/badge/Pycharm-5D702D?style=for-the-badge&logo=Pycharm&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![mac OS](https://img.shields.io/badge/mac_OS-233858?style=flat-square&logo=apple&logoColor=white)
+![android](https://img.shields.io/badge/android-408C3F?style=flat-square&logo=android&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-352358?style=flat-square&logo=VisualStudio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-06487F?style=flat-square&logo=VisualStudiocode&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-36523B?style=flat-square&logo=atom&logoColor=white)
+![Pycharm](https://img.shields.io/badge/Pycharm-5D702D?style=flat-square&logo=Pycharm&logoColor=white)
 
 <!-- <br> -->
 
 ### My links and Connectinos 🔗
 
-<a href='https://zil.ink/ehsanamirahmadi/'>![Web](https://img.shields.io/badge/My_Linkes-405BBD?style=for-the-badge&logo=&logoColor=white)</a>
+<a href='https://zil.ink/ehsanamirahmadi/'>![Web](https://img.shields.io/badge/My_Linkes-405BBD?style=flat-square&logo=&logoColor=white)</a>
 <a href='https://www.linkedin.com/in/ehsan-amirahmadi-a44a35221/'>
-  ![Linked In](https://img.shields.io/badge/Linked_In-182E80?style=for-the-badge&logo=LinkedIn&logoColor=white)
+  ![Linked In](https://img.shields.io/badge/Linked_In-182E80?style=flat-square&logo=LinkedIn&logoColor=white)
 </a>
-<a href='https://virgool.io/@ehsanamirahmadi/'>![Articles and Texts](https://img.shields.io/badge/Articles_and_Texts-0D173B?style=for-the-badge&logo=&logoColor=white)</a>
-<a href='https://t.me/EhsanAmirahmadi/'>![Telegram](https://img.shields.io/badge/Telegram-4C5266?style=for-the-badge&logo=Telegram&logoColor=white)</a>
+<a href='https://virgool.io/@ehsanamirahmadi/'>![Articles and Texts](https://img.shields.io/badge/Articles_and_Texts-0D173B?style=flat-square&logo=&logoColor=white)</a>
+<a href='https://t.me/EhsanAmirahmadi/'>![Telegram](https://img.shields.io/badge/Telegram-4C5266?style=flat-square&logo=Telegram&logoColor=white)</a>
 <a href='https://stackoverflow.com/users/16884635/ehsan-amirahmadi/'>
-  ![stackoverflow](https://img.shields.io/badge/stack_overflow-B85E12?style=for-the-badge&logo=stackoverflow&logoColor=white)
+  ![stackoverflow](https://img.shields.io/badge/stack_overflow-B85E12?style=flat-square&logo=stackoverflow&logoColor=white)
 </a>
-<a href='gmail'>![Gmail](https://img.shields.io/badge/Gmail-B82912?style=for-the-badge&logo=Gmail&logoColor=white)</a>
+<a href='gmail'>![Gmail](https://img.shields.io/badge/Gmail-B82912?style=flat-square&logo=Gmail&logoColor=white)</a>
 
 <!-- <br> -->
 
