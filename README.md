@@ -5,10 +5,10 @@
 - 🌱 <b><samp>I’m currently learning Python</samp></b>
 - 😄 <b><samp>Pronouns: He/Him</samp></b> 
 
-![Age](https://img.shields.io/badge/age%20-(now%20%3A%202022)%2015%20-red?style=flat-square)
-![Location](https://img.shields.io/badge/Location%20-Iran,Mashhad-blue?style=flat-square)
+![Age](https://img.shields.io/badge/age%20-(now%20%3A%202022)%2015%20-265ebf?style=flat-square)
+![Location](https://img.shields.io/badge/Location%20-Iran,Mashhad-25a16b?style=flat-square)
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/EhsanAmirahmadi?style=flat-square&color=red">
-<img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=EhsanAmirahmadi&style=flat-square&color=green">
+<img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=EhsanAmirahmadi&style=flat-square&color=7326bf">
   
 <!-- <br> -->
 ##
