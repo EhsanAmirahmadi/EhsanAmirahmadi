@@ -44,7 +44,7 @@
 <a href='https://stackoverflow.com/users/16884635/ehsan-amirahmadi/'>
   ![stackoverflow](https://img.shields.io/badge/stack_overflow-B85E12?style=flat-square&logo=stackoverflow&logoColor=white)
 </a>
-<a href='gmail'>![Gmail](https://img.shields.io/badge/Gmail-B82912?style=flat-square&logo=Gmail&logoColor=white)</a>
+<a href='https://EhsanAmirahmadi1385@gmail.com/'>![Gmail](https://img.shields.io/badge/Gmail-B82912?style=flat-square&logo=Gmail&logoColor=white)</a>
 
 <!-- <br> -->
 
@@ -53,15 +53,14 @@
   <a href="https://github.com/EhsanAmirahmadi">
   <img height="133rem" src="https://github-readme-stats.vercel.app/api?username=EhsanAmirahmadi&hide=contribs,issues&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="133rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EhsanAmirahmadi&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=tokyonight"/> 
-<!--   <br/> -->
-<!--   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EhsanAmirahmadi&theme=radical&hide_border=true&background=1a1b27"/> -->
   <br/>
   <img height="145rem" src="https://github-profile-trophy.vercel.app/?username=EhsanAmirahmadi&margin-w=10&no-frame=true&row=1&theme=tokyonight"/>
   </a>
 </p>
   
   
-  
+  <!--   <br/> -->
+<!--   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EhsanAmirahmadi&theme=radical&hide_border=true&background=1a1b27"/> -->
   
 <!-- <div style='display: flex;'>
   <a href="https://github.com/EhsanAmirahmadi/">
