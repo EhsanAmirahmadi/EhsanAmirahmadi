@@ -36,10 +36,10 @@
 ### <a href='https://zil.ink/ehsanamirahmadi/'>My links and Connectinos</a> 🔗
 
 <a href='https://zil.ink/ehsanamirahmadi/'>![Web](https://img.shields.io/badge/🔗_My_Linkes_(_for_My_Links_tap_on_this_)-405BBD?style=flat-square&logo=&logoColor=white)</a>
+<a href='https://virgool.io/@ehsanamirahmadi/'>![Articles and Texts](https://img.shields.io/badge/📑_Virgool_(_Articles_and_Texts_)-0D173B?style=flat-square&logo=&logoColor=white)</a>
 <a href='https://www.linkedin.com/in/ehsan-amirahmadi-a44a35221/'>
   ![Linked In](https://img.shields.io/badge/Linked_In-182E80?style=flat-square&logo=LinkedIn&logoColor=white)
 </a>
-<a href='https://virgool.io/@ehsanamirahmadi/'>![Articles and Texts](https://img.shields.io/badge/📑_Virgool_(_Articles_and_Texts_)-0D173B?style=flat-square&logo=&logoColor=white)</a>
 <a href='https://t.me/EhsanAmirahmadi/'>![Telegram](https://img.shields.io/badge/Telegram-4C5266?style=flat-square&logo=Telegram&logoColor=white)</a>
 <a href='https://stackoverflow.com/users/16884635/ehsan-amirahmadi/'>
   ![stackoverflow](https://img.shields.io/badge/stack_overflow-B85E12?style=flat-square&logo=stackoverflow&logoColor=white)
