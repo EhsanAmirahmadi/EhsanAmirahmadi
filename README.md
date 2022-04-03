@@ -14,10 +14,12 @@
 ##
   
 ### Skills and Experience 🪄
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+
+[![My Skills](https://skillicons.dev/icons?i=py,figma,git,bootstrap,html,css)](https://skillicons.dev)
+<!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![HTML](https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) -->
  
 <!--  <br> -->
 
