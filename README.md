@@ -52,8 +52,8 @@
 <!--   [![Ehsan Amirahmadi StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16884635&theme=dark)](https://stackoverflow.com/users/16884635/ehsan-amirahmadi) -->
   <p align="center">
   <a href="https://github.com/EhsanAmirahmadi">
-  <img height="135rem" src="https://github-readme-stats.vercel.app/api?username=EhsanAmirahmadi&hide=contribs,issues&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="135rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EhsanAmirahmadi&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=tokyonight"/> 
+  <img height="137rem" src="https://github-readme-stats.vercel.app/api?username=EhsanAmirahmadi&hide=contribs,issues&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="137rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EhsanAmirahmadi&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=tokyonight"/> 
   <br/>
   <img height="145rem" src="https://github-profile-trophy.vercel.app/?username=EhsanAmirahmadi&margin-w=10&no-frame=true&row=1&theme=tokyonight"/>
   </a>
