@@ -13,7 +13,7 @@
 <!-- <br> -->
 ##
   
-### Skills and Tools 🪄
+### Skills and Tools ✔
 
 [![My Skills](https://skillicons.dev/icons?i=py,git,bootstrap,html,css,vscode,visualstudio,figma)](https://skillicons.dev)
 <!-- django-docker-linux-mongodb-mysql-vim-postgres-qt -->
