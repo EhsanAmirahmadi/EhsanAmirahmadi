@@ -15,8 +15,8 @@
   
 ### Skills and Tools ✔
 
-[![My Skills](https://skillicons.dev/icons?i=py,git,bootstrap,html,css,vscode,visualstudio,figma)](https://skillicons.dev)
-<!-- django-docker-linux-mongodb-mysql-vim-postgres-qt -->
+[![My Skills](https://skillicons.dev/icons?i=py,git,bootstrap,html,css,vscode,visualstudio,figma,mysql)](https://skillicons.dev)
+<!-- django-docker-linux-mongodb-vim-postgres-qt -->
 
 
 ### <a href='https://zil.ink/ehsanamirahmadi/'>My links and Connectinos</a> 🔗
