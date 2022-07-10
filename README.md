@@ -15,7 +15,7 @@
   
 ### Skills and Tools ✔
 
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,git,bootstrap,html,css,vscode,visualstudio,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,bash,git,bootstrap,html,css,atom,vscode,visualstudio,figma)](https://skillicons.dev)
 <!-- django-docker-linux-mongodb-vim-postgres-qt -->
 
 
