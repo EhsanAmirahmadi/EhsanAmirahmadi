@@ -26,7 +26,7 @@
 <a href='https://www.linkedin.com/in/ehsan-amirahmadi-a44a35221/'>
   ![Linked In](https://img.shields.io/badge/Linked_In-182E80?style=flat&logo=LinkedIn&logoColor=white)
 </a>
-<a href='https://t.me/EhsanAmirahmadi/'>![Telegram](https://img.shields.io/badge/Telegram-4C5266?style=flat&logo=Telegram&logoColor=white)</a>
+<a href='https://t.me/EHSBIZ/'>![Telegram](https://img.shields.io/badge/Telegram-4C5266?style=flat&logo=Telegram&logoColor=white)</a>
 <a href='https://stackoverflow.com/users/16884635/ehsan-amirahmadi/'>
   ![stackoverflow](https://img.shields.io/badge/stack_overflow-B85E12?style=flat&logo=stackoverflow&logoColor=white)
 </a>
