@@ -93,7 +93,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ehsan-amirahmadi-a44a35221/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://zil.ink/ehsanamirahmadi)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg' alt='google' height='40'>](https://virgool.io/@ehsanamirahmadi) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/EhsanAmirahmadi)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/EHSBIZ)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16884635/ehsan-amirahmadi)   -->
 <!-- [<img src='Web.webp' alt='website' with='45rem' height='45rem'>](https://zil.ink/ehsanamirahmadi)
 [<img src='linkedin.webp' alt='linkedin' with='45rem' height='45rem'>](https://www.linkedin.com/in/ehsan-amirahmadi-a44a35221/) 
